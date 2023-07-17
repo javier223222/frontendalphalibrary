@@ -1,0 +1,183 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.nav{
+    background-color: rgba(76, 36, 162, 0.65) !important ;
+    font-family: 'Montserrat';
+
+}
+.boton{
+    margin-top: 5.5rem !important;
+}
+.principal{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+   
+    background-image: url("../assets/img/WhatsApp\ Image\ 2023-06-11\ at\ 8.34.30\ PM.jpeg");
+   background-size: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+}
+.labeladd{
+    font-family: 'Montserrat';
+    margin-left: -18rem;
+    color: #07227B;
+}
+.addtitu{
+    margin-left: -20rem;
+}
+.addedit{
+    margin-left: -19rem;
+}
+.addautor{
+    margin-left: -20rem;
+
+}
+.addcantidad{
+    margin-left: -18rem;
+}
+.addisbn{
+    margin-left: -21rem;
+}
+label{
+    
+    color:#8C30F5 !important;
+
+}
+.inputAdd{
+    
+    
+    font-family: 'Montserrat';
+   margin-top: 5px;
+   
+   color:#8C30F5 !important ;
+    background-color: #FFFFFF !important;
+    border: 1px solid rgba(7, 34, 123, 0.4) !important;
+    border-radius: 5px !important;
+    
+}
+.alto{
+    height: 40px !important;
+}
+.max2{
+  width:300px ;
+  height: 40px;
+  margin-top: 1rem;
+}
+.max{
+    margin-top: 1.5rem;
+   color: #8C30F5 !important;
+    width: 366px;
+    height: 40px;
+}
+.max ::placeholder{
+  color: #8C30F5 !important;
+}
+.css-1jqq78o-placeholder{
+  color: #8C30F5 !important;
+  font-family: "Roboto","Helvetica","Arial",sans-serif !important;
+}
+.css-1dimb5e-singleValue{
+  color: #8C30F5 !important;
+  font-family: "Roboto","Helvetica","Arial",sans-serif !important;
+}
+.maxcate{
+  margin-top: 0.7rem;
+}
+
+.addbook{
+    font-family: 'Montserrat';
+    background-color: #8C30F5 !important;
+    border-radius: 6px !important;
+}
+.containerAdd{
+    font-family: 'Montserrat' !important;
+   
+}
+.imagePrincipal{
+    width: 172px;
+    height: 56px;
+    position: relative;
+   
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}
+.nav a{
+  text-decoration: none;
+  color: #fff;
+}
+.boton{
+    
+    margin-right: 5rem!important;
+   margin-left: 5rem!important;
+}
+  
+  @media only screen and (max-width: 380px) and (min-width: 370px) {
+    .containerAdd{
+        margin-right: 0.3rem !important;
+        margin-left: 0.5rem !important;
+      }
+      .boton{
+        margin-top: 5.5rem !important;
+        margin-right: 1rem!important;
+       margin-left: 1rem!important;
+    }
+  }
+  @media only screen and (max-width: 420px) and (min-width: 390px) {
+    .containerAdd{
+        margin-right: 1rem !important;
+        margin-left: 1rem !important;
+      }
+        .boton{
+        margin-top: 5.5rem !important;
+        margin-right: 1rem!important;
+       margin-left: 1rem!important;
+    }
+    .columnform{
+        margin-top: 2.5rem !important;
+    }
+  }
+  @media only screen and (max-width: 360px) and (min-width: 340px) {
+    .boton{
+        margin-top: 5.5rem !important;
+        margin-right: 1rem!important;
+       margin-left: 1rem!important;
+    }
+      .max{
+        margin-top: 1.5rem;
+   
+        width: 300px;
+        height: 40px;
+      }
+      .columnform{
+        margin-top: 0.7rem !important;
+      }
+     
+      
+  }
+  @media only screen and (max-width: 290px) and (min-width: 260px) {
+    .boton{
+        margin-top: 5.5rem !important;
+        margin-right: 1rem!important;
+       margin-left: 1rem!important;
+    }
+      .max{
+        margin-top: 1.5rem;
+   
+        width: 230px;
+        height: 40px;
+      }
+      .columnform{
+        margin-top: 0.7rem !important;
+      }
+     
+  }
+  .navbaragregarLibro a{
+    text-decoration: none;
+    color: inherit ;
+  }

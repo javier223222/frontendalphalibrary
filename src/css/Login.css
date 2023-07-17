@@ -1,0 +1,446 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.formLogin{
+    width: 366px;
+}
+.pricinpalInav{
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1rem;
+}
+.pricinpalInav h1{
+    color: #1D267D;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+}
+.imagenprincipallogin{
+    width: 313px;
+    height: 112px;
+}
+.marginincio{
+    color: #1D267D;
+    font-family: 'Montserrat';
+    font-style: normal;
+font-weight: 700;
+}
+.width label {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+    color: #07227B !important;
+}
+.contendor{
+    margin-top: 3.5rem !important;
+}
+.principalLogin{
+    margin: 0;
+width: 100%;
+height: 100%;
+
+background-image: url("../assets/img/backgroundimageLogin.jpeg") !important;
+background-size: 100%;
+background-size: cover;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+position: absolute;
+
+
+}
+
+
+@media only screen and (min-width:1450px) {
+    .text-center{
+        margin-left: -3rem ;
+    }
+}
+.principalLogin form{
+    animation:logonbut 1.5s;
+}
+.principalLogin .imagen{
+    animation:logonbut 1.5s;
+}
+.pricinpalInav{
+    animation:butotonAnimation 1.5s;
+}
+.imagen :hover{
+    opacity: 0.9;
+}
+.imagenprincipallogin:hover{
+
+    transform: scale(1.1) ;
+}
+@media only screen and (max-width: 800px){
+ .principalLogin{
+    animation:butotonAnimation 1.5s !important;
+ }
+}
+@keyframes butotonAnimation{
+    0%{
+        -webkit-transform: translatex(500px);
+        transform: translatex(500px);
+    }
+    100%{
+      
+    }
+}
+@keyframes logonbut{
+    0%{
+        -webkit-transform: translatey(500px);
+        transform: translatey(500px);
+    }
+    100%{
+      
+    }
+}
+
+.imagen{
+    max-width: 604px;
+    height: 325px;;
+}
+.width{
+    width: 400px;
+   
+}
+.width .input {
+   max-width: 370px;
+   background: #FFFFFF;
+border: 1px solid rgba(7, 34, 123, 0.4);
+border-radius: 5px;
+}
+.width button{
+    position: relative;
+    background: #D4ADFC;
+border-radius: 5px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+text-align: center;
+left: 8rem;
+top: 0.5rem;
+}
+.marginincio{
+    position: relative;
+    top: -1rem;
+}
+.width button:hover{
+    background: #D4ADFC;
+}
+.width{
+ margin-top: -3rem;
+}
+@media only screen and (max-width: 380px) and (min-width:355px) {
+    .imagen{
+        width: 350px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: 1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-top: -2.1rem;
+        margin-left: 0.5rem;
+    }
+    .imagen{
+        top: -1.3rem;
+        position: relative;
+        margin-left: -1.8rem;
+    }
+
+  }
+  @media only screen and (max-width: 420px) and (min-width:405px) {
+    .imagen{
+        width: 350px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: 1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-top: 4rem;
+        margin-left: 0.2rem;
+    }
+    .imagen{
+        top: 0.5rem;
+        position: relative;
+        margin-left: -1.5rem;
+    }
+
+  }
+  @media only screen and (max-width: 400px) and (min-width:385px) {
+    .imagen{
+        width: 320px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: 1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-top: 2.5rem;
+        margin-left: 0.2rem;
+    }
+    .imagen{
+        top: 0.5rem;
+        position: relative;
+        margin-left:-1.5rem;
+    }
+
+  }
+  @media only screen and (max-width: 720px) and (min-width:640px) {
+    .imagen{
+        text-align: center;
+        width: 400px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: 2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+  }
+  @media only screen and (max-width: 635px) and (min-width:610px) {
+    .imagen{
+        text-align: center;
+        width: 400px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 2rem;
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+  }
+
+  @media only screen and (max-width: 1070px) and (min-width:1000px) {
+    .imagen{
+        text-align: center;
+        width: 420px;
+        height: 230px;;
+    }
+    .contendor{
+        margin-top: 8.5rem !important;
+    }
+    
+    .width{
+        margin-left: 3rem;
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+  }
+  @media only screen and (max-width: 1940px) and (min-width:1700px) {
+    .imagen{
+        text-align: center;
+        width: 420px;
+        height: 230px;;
+    }
+    .contendor{
+        margin-top: 8.5rem !important;
+    }
+    
+    .width{
+        margin-left: 12rem;
+    }
+    .imagen{
+        width: 604px;
+     height: 325px;
+        margin-left: 9rem;
+    }
+  }
+  @media only screen and (max-width: 1680px) and (min-width:1650px) {
+    .contendor{
+        margin-top: 9rem !important;
+    }
+  }
+  @media only screen and (max-width: 1400px) and (min-width:1300px) {
+    .contendor{
+        margin-top: 9rem !important;
+    }
+    .width{
+        margin-left: 4rem;
+    }
+    .imagen{
+        margin-left: 1rem;
+    }
+  }
+  @media only screen and (max-width: 1290px) and (min-width:1210px) {
+    .contendor{
+        margin-top: 9rem !important;
+    }
+    .width{
+        margin-left: 3rem;
+    }
+  
+  }
+  @media only screen and (max-width: 1200px) and (min-width:1100px) {
+    .contendor{
+        margin-top: 8rem !important;
+    }
+    .width{
+        margin-left: 3rem;
+    }
+    .imagen{
+        width: 500px;
+        height: 250px;
+    }
+    .width button{
+       
+    left: 5rem;
+  
+    }
+  }
+  @media only screen and (max-width: 1090px) and (min-width:1020px) {
+    .contendor{
+        margin-top: 8rem !important;
+    }
+    .width{
+        margin-left: 3rem;
+    }
+    .imagen{
+        width: 500px;
+        height: 250px;
+    }
+    .width button{
+       
+    left: 5rem;
+  
+    }
+  }
+  @media only screen and (max-width: 830px) and (min-width:800px) {
+    .imagen{
+        text-align: center;
+        max-width: 604px;
+        height: 325px;
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -1rem;
+        margin-top: 4.5rem;
+    }
+    .imagen{
+        margin-top: 2.5rem;
+        margin-left: -0.2rem;
+    }
+  }
+  @media only screen and (max-width: 790px) and (min-width:740px) {
+    .imagen{
+        text-align: center;
+        max-width: 604px;
+        height: 325px;
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -1rem;
+        margin-top: 4.5rem;
+    }
+    .imagen{
+        margin-top: 2.5rem;
+        margin-left: -1rem;
+    }
+  }
+  @media only screen and (max-width: 920px) and (min-width:900px) {
+    .imagen{
+        text-align: center;
+        max-width: 604px;
+        height: 325px;
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3.5rem;
+        margin-top: 9rem;
+    }
+    .imagen{
+        margin-top: 4rem;
+        margin-left: 1.5rem;
+    }
+  }
+  @media only screen and (max-width: 560px) and (min-width:500px) {
+    .imagen{
+        text-align: center;
+        width: 400px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -1rem;
+    }
+    .imagen{
+        margin-left: -0.4rem;
+    }
+  }
+  @media only screen and (max-width: 290px) {
+    .imagen{
+        width: 350px;
+        height: 200px;;
+    }
+    .contendor{
+        margin-top: 1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-top: 2rem;
+        margin-left: 3.3rem;
+    }
+    .imagen{
+        top: -0.1rem;
+        position: relative;
+        margin-left: -2.6rem;
+    }
+
+  }

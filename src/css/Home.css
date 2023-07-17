@@ -1,0 +1,507 @@
+
+body{
+    margin: 0;
+}
+.principalHome{
+
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
+    background-image:url("../assets/img/alphafondo.jpg") ;
+
+}
+.imgaecontendor{
+ 
+    padding: 2px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.links{
+text-align: center;
+  gap: 1.3rem;
+  font-size: 16px;
+  padding: 13px;
+    color: white;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imagenFooter{
+    width: 172px;
+    height: 56px;
+    
+}
+.footer{
+    
+    margin: 0;
+   
+   display: flex;
+ 
+   flex-direction: column;
+    width: 100%;
+    background-color:#0B0D17;
+    
+    line-height:50px;
+    bottom:0;
+    left:0;
+  
+ 
+}
+.contenedorLinea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.linea{
+   width: 75vw;
+   text-align: center;
+    color: white;
+}
+.icons{
+    display: flex;
+    gap: 1rem;
+}
+.containerh1{
+    display: flex;
+    margin-top: -0.5rem;
+    margin-right: 13rem;
+    margin-left: 12rem;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.SocialMediaIcons{
+    display: flex;
+    
+    justify-content: space-between;
+}
+.Copyright{
+    color:  #D9DBE1;
+    font-size: 0.8rem;
+}
+.navHome{
+    background-color: #D4ADFC !important;
+}
+.boton1{
+    animation:butotonAnimation 1s ;
+    color: black !important;
+}
+
+.iniciosesionboton{
+
+font-style: normal !important;
+font-weight: 500 !important;
+font-size: 13px !important;
+line-height: 20px !important;
+    text-decoration: none;
+    background-color: #07227B !important;
+   border-radius: 6px !important;
+   color: #FFFFFF !important;
+   width: 120px !important;
+animation:butotonAnimation 1s ;
+height: 40px;
+
+}
+button:hover{
+    opacity: 0.9;
+}
+.contenedoprincipal {
+    margin-top: 14rem;
+    -webkit-animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    animation: slide-top 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  margin-left: 12rem;
+}
+.contenedoprincipal h1{
+    font-size: 72px;
+}
+.contenedoprincipal p{
+    font-size: 18px;
+}
+@keyframes butotonAnimation{
+    0%{
+        -webkit-transform: translatex(500px);
+        transform: translatex(500px);
+    }
+    100%{
+      
+    }
+}
+
+@-webkit-keyframes slide-top {
+ 0% {
+   -webkit-transform: translateY(0);
+           transform: translateY(0);
+ }
+ 100% {
+   -webkit-transform: translateY(-100px);
+           transform: translateY(-100px);
+ }
+}
+@keyframes slide-top {
+ 0% {
+   -webkit-transform: translateY(0);
+           transform: translateY(0);
+ }
+ 100% {
+   -webkit-transform: translateY(-100px);
+           transform: translateY(-100px);
+ }
+}
+@media only screen and (max-width: 385px) and (min-width: 368px)  {
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/background_iphone.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 5rem;
+    margin-top: 25rem;
+   }
+  }
+
+
+
+
+  @media only screen and (max-width: 420px) and (min-width: 405px)  {
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/iphone-xr.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 4.5rem;
+    margin-top: 30rem;
+   }
+  } 
+ 
+  @media only screen and (max-width: 830px) and (min-width: 810px)  {
+   .contenedoprincipal{
+    margin-top: 16.5rem !important;
+    margin-left: 2rem !important;
+   }
+   .navHome{
+    background-color: #D4ADFC !important;
+    }
+    .principalHome{
+
+
+    
+    
+        background-color: transparent !important;
+        position: absolute !important;
+        background-repeat: no-repeat !important;
+        background-position: center top !important;
+        background-attachment: fixed !important;
+      
+       
+    
+        background-image: url("../assets/img/fondoIpadMini.jpg") !important;
+       }
+   .footer{
+    visibility: visible !important;
+    position: fixed !important;
+   }
+  
+  } 
+  @media only screen and (max-width: 403px) and (min-width: 388px)  {
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/iphone-xr.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 4rem;
+    margin-top: 30rem;
+   }
+  } 
+  @media only screen and (max-width: 370px) and (min-width: 355px)  {
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/iphone-xr.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 4rem;
+    margin-top: 30rem;
+   }
+  } 
+  @media only screen and (max-width: 775px) and (min-width: 760px)  {
+    .contenedoprincipal{
+     margin-top: 16.5rem !important;
+     margin-left: 2rem !important;
+    }
+   
+     .principalHome{
+ 
+ 
+     
+     
+         background-color: transparent !important;
+         position: absolute !important;
+         background-repeat: no-repeat !important;
+         background-position: center top !important;
+         background-attachment: fixed !important;
+       
+        
+     
+         background-image: url("../assets/img/ipadminiresponsive.jpg") !important;
+        }
+    .footer{
+    visibility: visible !important;
+     position: fixed !important;
+    }
+   
+   } 
+   @media only screen and (max-width: 920px) and (min-width: 760px)  {
+    .contenedoprincipal{
+     margin-top: 23rem ;
+     margin-left: 3rem;
+    }
+   
+     .principalHome{
+ 
+ 
+     
+     
+         background-color: transparent;
+         position: absolute;
+         background-repeat: no-repeat;
+         background-position: center top;
+         background-attachment: fixed;
+       
+        
+     
+         background-image: url("../assets/img/ipadminiresponsive2.jpg") !important;
+        }
+    .footer{
+     position: fixed;
+    }
+   
+   } 
+   @media only screen and (max-width: 550px) and (min-width: 520px)  {
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/iphone-xr.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 5rem !important;
+    margin-top: 21rem !important;
+   }
+   
+   } 
+
+   
+   @media only screen and (max-width: 290px) and (min-width: 270px)  {
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/iphone-xr.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 4rem !important;
+    margin-top: 30rem !important;
+   }
+  } 
+  @media only screen and (max-width: 1024px) and (min-width: 1000px)  {
+    .contenedoprincipal{
+        margin-top: 13rem !important;
+        margin-left: 2rem !important;
+       }
+       .navHome{
+        background-color: #D4ADFC !important;
+        }
+        .principalHome{
+    
+    
+        
+        
+            background-color: transparent !important;
+            position: absolute !important;
+            background-repeat: no-repeat !important;
+            background-position: center top !important;
+            background-attachment: fixed !important;
+          
+           
+        
+            background-image: url("../assets/img/next.jpg") !important;
+           }
+       .footer{
+        visibility: hidden !important;
+        position: fixed !important;
+       }
+  } 
+  @media only screen and (max-width: 1300px) and (min-width: 1220px)  {
+    .contenedoprincipal{
+        margin-top: 13rem !important;
+        margin-left: 3.5rem !important;
+       }
+       .navHome{
+        background-color: #D4ADFC !important;
+        }
+        .principalHome{
+    
+    
+        
+        
+            background-color: transparent !important;
+            position: absolute !important;
+            background-repeat: no-repeat !important;
+            background-position: center top !important;
+            background-attachment: fixed !important;
+          
+           
+        
+            background-image: url("../assets/img/next.jpg") !important;
+           }
+       .footer{
+        visibility: visible !important;
+        position: fixed !important;
+       }
+       
+  } 

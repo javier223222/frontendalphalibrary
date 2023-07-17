@@ -1,0 +1,617 @@
+
+
+.navLibros{
+    background-color: #D6B1FF !important ;
+    font-family: 'Montserrat';
+    
+
+}
+.itemslibros{
+  color: #D6B1FF !important;
+}
+.navdisplay a{
+    text-decoration: none;
+    color: inherit;
+}
+.navLibros a{
+ text-decoration: none;
+ color: #fff;
+}
+.agrega{
+  margin-top: -8rem;
+    gap: 85rem !important;
+}
+.a {
+    text-decoration: none !important;
+    color: black;
+
+
+}
+.imagePrincipalLibros{
+    width: 172px;
+    height: 56px;
+    position: relative;
+   
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}
+
+.agregarlibro{
+  color: white !important;
+    background-color: rgba(76, 36, 162, 0.65) !important;
+    margin-top: 7rem !important;
+    margin-left: 1rem !important;
+    -webkit-animation: butotonAnimation  1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    animation: butotonAnimation 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+
+}
+
+@keyframes butotonAnimation{
+    0%{
+        -webkit-transform: translatex(500px);
+        transform: translatex(500px);
+    }
+    100%{
+      
+    }
+}
+.tit{
+  margin-top: 5.5rem;
+}
+.tit h1{
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.tituilolibros{
+  color: var(--text-gray-900, #18191F);
+/* Heading/H1 */
+font-size: 72px;
+font-family: Inter;
+font-style: normal;
+font-weight: 800;
+line-height: 98px;
+}
+.principallibros{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+   
+    background-image: url("../assets/img/fondo.jpeg");
+   background-size: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    position: absolute;
+}
+
+@media only screen and (max-width:1300px) and (min-width:1260px) {
+    .agrega{
+      gap: 60rem !important;
+    }
+  }
+  @media only screen and (max-width:1257px) and (min-width:1252px) {
+    .agrega{
+      gap: 58rem !important;
+    }
+  }
+  @media only screen and (max-width:1250px) and (min-width:1230px) {
+    .agrega{
+      gap: 58rem !important;
+    }
+  }
+  @media only screen and (max-width:1229px) and (min-width:1220px) {
+    .agrega{
+      gap: 56rem !important;
+    }
+  }
+  @media only screen and (max-width:1219px) and (min-width:1200px) {
+    .agrega{
+      gap: 56rem !important;
+    }
+  }
+  @media only screen and (max-width:1199px) and (min-width:1190px) {
+    .agrega{
+      gap: 55rem !important;
+    }
+  }
+  @media only screen and (max-width:1189px) and (min-width:1180px) {
+    .agrega{
+      gap: 55rem !important;
+    }
+  }
+  @media only screen and (max-width:1179px) and (min-width:1170px) {
+    .agrega{
+      gap: 52rem !important;
+    }
+  }
+  @media only screen and (max-width:1169px) and (min-width:1160px) {
+    .agrega{
+      gap: 52rem !important;
+    }
+  }
+  @media only screen and (max-width:1159px) and (min-width:1150px) {
+    .agrega{
+      gap: 52rem !important;
+    }
+  }
+  @media only screen and (max-width:1149px) and (min-width:1140px) {
+    .agrega{
+      gap: 52rem !important;
+    }
+  }
+  @media only screen and (max-width:1139px) and (min-width:1130px) {
+    .agrega{
+      gap: 52rem !important;
+    }
+  }
+  @media only screen and (max-width:1129px) and (min-width:1120px) {
+    .agrega{
+      gap: 50rem !important;
+    }
+  }
+  @media only screen and (max-width:1119px) and (min-width:1110px) {
+    .agrega{
+      gap: 50rem !important;
+    }
+  }
+  @media only screen and (max-width:1109px) and (min-width:1100px) {
+    .agrega{
+      gap: 50rem !important;
+    }
+  }
+  @media only screen and (max-width:1099px) and (min-width:1090px) {
+    .agrega{
+      gap: 49rem !important;
+    }
+  }
+  
+  @media only screen and (max-width:1089px) and (min-width:1080px) {
+    .agrega{
+      gap: 48rem !important;
+    }
+  }
+  
+  @media only screen and (max-width:1079px) and (min-width:1070px) {
+    .agrega{
+      gap: 48rem !important;
+    }
+  }
+  @media only screen and (max-width:1069px) and (min-width:1060px) {
+    .agrega{
+      gap: 47rem !important;
+    }
+  }
+  @media only screen and (max-width:1059px) and (min-width:1050px) {
+    .agrega{
+      gap: 45rem !important;
+    }
+  }
+  @media only screen and (max-width:1049px) and (min-width:1040px) {
+    .agrega{
+      gap: 45rem !important;
+    }
+  }
+  @media only screen and (max-width:1039px) and (min-width:1030px) {
+    .agrega{
+      gap: 45rem !important;
+    }
+  }
+  @media only screen and (max-width:1029px) and (min-width:1020px) {
+    .agrega{
+      gap: 45rem !important;
+    }
+  }
+  @media only screen and (max-width:1019px) and (min-width:1010px) {
+    .agrega{
+      gap: 42rem !important;
+    }
+  }
+  
+  
+  
+@media only screen and (max-width:999px) and (min-width:960px) {
+  .agrega{
+    gap: 41rem !important;
+  }
+}
+@media only screen and (max-width:958px) and (min-width:900px) {
+    .agrega{
+      gap: 37rem !important;
+    }
+  }
+  @media only screen and (max-width:894px) and (min-width:840px) {
+    .agrega{
+      gap: 34rem !important;
+    }
+  }
+  @media only screen and (max-width:835px) and (min-width:810px) {
+    .agrega{
+      gap: 32rem !important;
+    }
+  }
+  @media only screen and (max-width:808px) and (min-width:800px) {
+    .agrega{
+      gap: 31rem !important;
+    }
+  }
+  @media only screen and (max-width:795px) and (min-width:780px) {
+    .agrega{
+      gap: 29rem !important;
+    }
+  }
+  @media only screen and (max-width:779px) and (min-width:770px) {
+    .agrega{
+      gap: 27rem !important;
+    }
+  }
+  @media only screen and (max-width:750px) and (min-width:740px) {
+    .agrega{
+      gap: 27rem !important;
+    }
+  }
+  @media only screen and (max-width:739px) and (min-width:730px) {
+    .agrega{
+      gap: 26rem !important;
+    }
+  }
+  @media only screen and (max-width:729px) and (min-width:720px) {
+    .agrega{
+      gap: 26rem !important;
+    }
+  }
+  @media only screen and (max-width:719px) and (min-width:710px) {
+    .agrega{
+      gap: 25rem !important;
+    }
+  }
+  @media only screen and (max-width:770px) and (min-width:760px) {
+    .agrega{
+      gap: 28rem !important;
+    }
+  }
+  @media only screen and (max-width:709px) and (min-width:700px) {
+    .agrega{
+      gap: 24rem !important;
+    }
+  }
+  @media only screen and (max-width:699px) and (min-width:690px) {
+    .agrega{
+      gap: 24rem !important;
+    }
+  }
+  @media only screen and (max-width:689px) and (min-width:680px) {
+    .agrega{
+      gap: 23rem !important;
+    }
+  }
+  @media only screen and (max-width:679px) and (min-width:670px) {
+    .agrega{
+      gap: 23rem !important;
+    }
+  }
+  @media only screen and (max-width:669px) and (min-width:660px) {
+    .agrega{
+      gap: 22rem !important;
+    }
+  }
+  @media only screen and (max-width:659px) and (min-width:650px) {
+    .agrega{
+      gap: 21rem !important;
+    }
+  }
+  @media only screen and (max-width:649px) and (min-width:640px) {
+    .agrega{
+      gap: 21rem !important;
+    }
+  }
+  @media only screen and (max-width:639px) and (min-width:630px) {
+    .agrega{
+      gap: 20rem !important;
+    }
+  }
+  @media only screen and (max-width:629px) and (min-width:620px) {
+    .agrega{
+      gap: 19rem !important;
+    }
+  }
+  @media only screen and (max-width:619px) and (min-width:610px) {
+    .agrega{
+      gap: 19rem !important;
+    }
+  }
+  @media only screen and (max-width:609px) and (min-width:600px) {
+    .agrega{
+      gap: 18rem !important;
+    }
+  }
+  @media only screen and (max-width:599px) and (min-width:590px) {
+    .agrega{
+      gap: 18rem !important;
+    }
+  }
+  @media only screen and (max-width:589px) and (min-width:580px) {
+    .agrega{
+      gap: 17rem !important;
+    }
+  }
+  @media only screen and (max-width:579px) and (min-width:570px) {
+    .agrega{
+      gap: 16rem !important;
+    }
+  }
+  @media only screen and (max-width:569px) and (min-width:560px) {
+    .agrega{
+      gap: 16rem !important;
+    }
+  }
+  @media only screen and (max-width:380px) and (min-width:370px) {
+    .agrega{
+      gap: 4.2rem !important;
+    }
+  }
+  @media only screen and (max-width:380px) and (min-width:370px) {
+    .agrega{
+      gap: 4.2rem !important;
+    }
+  }
+  @media only screen and (max-width:420px) and (min-width:410px) {
+    .agrega{
+      gap: 6rem !important;
+    }
+  }
+  @media only screen and (max-width:395px) and (min-width:385px) {
+    .agrega{
+      gap: 5rem !important;
+    }
+  }
+  @media only screen and (max-width:550px) and (min-width:530px) {
+    .agrega{
+      gap: 14rem !important;
+    }
+  }
+  @media only screen and (max-width:290px) and (min-width:275px) {
+    .agrega{
+      gap: 0.1rem !important;
+    }
+    
+    .agregarlibro{
+        width: 10rem !important;
+        height: 2rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  }
+   /* @media only screen and (max-width:1800px) and (min-width:1700px) {
+    .agrega{
+      gap: 82rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:1852px) and (min-width:1803px) {
+    .agrega{
+      gap: 86rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:1900px) and (min-width:1854px) {
+    .agrega{
+      gap: 89rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  }  */
+  @media only screen and (max-width:1950px) and (min-width:1901px) {
+    .agrega{
+      gap: 89rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2000px) and (min-width:1951px) {
+    .agrega{
+      gap: 97rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2050px) and (min-width:2003px) {
+    .agrega{
+      gap: 97rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2100px) and (min-width:2051px) {
+    .agrega{
+      gap: 103rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2150px) and (min-width:2101px) {
+    .agrega{
+      gap: 108rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2200px) and (min-width:2152px) {
+    .agrega{
+      gap: 110rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2250px) and (min-width:2200px) {
+    .agrega{
+      gap: 113rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2300px) and (min-width:2251px) {
+    .agrega{
+      gap: 116rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2350px) and (min-width:2303px) {
+    .agrega{
+      gap: 116rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2400px) and (min-width:2351px) {
+    .agrega{
+      gap: 120rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2451px) and (min-width:2400px) {
+    .agrega{
+      gap: 123rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2451px) and (min-width:2400px) {
+    .agrega{
+      gap: 123rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2500px) and (min-width:2451px) {
+    .agrega{
+      gap: 127rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2550px) and (min-width:2500px) {
+    .agrega{
+      gap: 130rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2600px) and (min-width:2551px) {
+    .agrega{
+      gap: 132rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+  @media only screen and (max-width:2650px) and (min-width:2602px) {
+    .agrega{
+      gap: 137rem !important;
+    }
+    
+    .agregarlibro{
+        width: 13rem !important;
+        height: 2.4rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+  } 
+
+
+
+
+
+  

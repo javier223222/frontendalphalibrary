@@ -1,0 +1,29 @@
+@media only screen and (min-width: 766px) {
+   /* .query{
+    margin-top: 12rem !important;
+   } */
+   .fechadd{
+      width: 300px !important;
+      
+   }
+  }
+  @media only screen and (max-width: 920px) {
+    .abar{
+     width:  15rem !important;
+    }
+   }
+   @media only screen and (max-width: 764px) {
+    .query{
+        margin-top: 5rem !important;
+    }
+    .abar{
+     width:  19rem !important;
+    }
+   }
+   
+   @media only screen and (max-width: 1030px) and (min-width:1020px) {
+    .query{
+     margin-top: 8rem !important;
+    }
+   }
+  
