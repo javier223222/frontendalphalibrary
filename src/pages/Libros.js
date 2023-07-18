@@ -77,6 +77,7 @@ const Libros=()=>{
           state:{databook}
         })
     }
+    alert("La resolución de tu pantalla es: " + window.screen.width + " x " + window.screen.height)
     return(
 
 
