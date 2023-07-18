@@ -281,7 +281,7 @@ const AgregarPrestamo = props => {
     }
   return (
     <div className='principal'>
-         <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={AlphaLibraryLogo} classImage="imagePrincipal "></Navbar>
+         <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={""} classImage="imagePrincipal "></Navbar>
          <FormAgrearPrestamo handleSubmit={handlesubmit} libro={libro} handleChangeli={handleChange} grado={grado} handleChangegrado={handleChangegrado} grupo={grupo} handleChangegrupo={handleChangegrupo} nombrealumno="nombrealumno" apellidoM="apellidoM" apellidoP="apellidoP"  numerodeTelefono="numerodeTelefono"  fechainical="fechainical" fechafinal="fechafinal" handleChange={onInputChange}  ></FormAgrearPrestamo>
     </div>
   )

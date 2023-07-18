@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from '../componets/Navbar'
 import { Link, useNavigate } from 'react-router-dom'
-import logo from '../componets/Logo'
+
 import { Button } from '@mui/material'
 
 import DataTablePrestamos from '../componets/DataTablePrestamos'
@@ -57,7 +57,7 @@ const Prestamos = props => {
                  <Button className='agregarlibros'  variant="contained" onClick={agregarPrestamo}> Agregar Prestamo</Button>
 
        </div>
-        <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={logo} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+        <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={"../assets/img/logo.jpeg"} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
         <DataTablePrestamos data={datapres}></DataTablePrestamos>
     </div>
   )

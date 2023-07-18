@@ -15,6 +15,7 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 import "../css/AgregarLibro.css"
+import logo from "../assets/img/logo.jpeg"
 const drawerWidth = 240;
 
 
@@ -29,7 +30,7 @@ function Navbar(props) {
   const drawer = (
     <Box  onClick={handleDrawerToggle} className={props.navbaragregarLibro} sx={{ textAlign: 'center' }}>
       <Typography variant="h6" sx={{ my: 2 }}>
-      <img className={props.classImage} src={props.image}></img>
+      <img className={props.classImage} src={logo} alt='logo'></img>
       </Typography>
       <Divider />
       <List>
@@ -65,7 +66,7 @@ function Navbar(props) {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            <img className={props.classImage} src={props.image}></img>
+            <img className={props.classImage} src={logo}></img>
           </Typography>
           <Box  className={props.itemsNavbar2} sx={{ display: { xs: 'none', sm: 'block' } }}>
             {navItems.map((item) => (

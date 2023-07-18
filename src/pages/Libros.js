@@ -1,6 +1,6 @@
 import Navbar from "../componets/Navbar";
 import "../css/Libros.css";
-import logo from "../assets/img/logo.jpeg"
+
 import  { PDFDownloadLink } from "@react-pdf/renderer";
 import { Link, useNavigate } from "react-router-dom";
 import { Box, Button, Modal, TextField, Typography } from "@mui/material";
@@ -77,7 +77,7 @@ const Libros=()=>{
           state:{databook}
         })
     }
-    alert("La resolución de tu pantalla es: " + window.screen.width + " x " + window.screen.height)
+
     return(
 
 
@@ -97,7 +97,7 @@ const Libros=()=>{
             </div>
             </div>
             
-              <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button className="iniciosesionboton" onClick={cerrar}>Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={logo} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+              <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button className="iniciosesionboton" onClick={cerrar}>Cerrar sesion</Button>]}classImage="imagePrincipalLibros"  navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
               
               <DataTable datapres={databook}></DataTable>
               <Modal

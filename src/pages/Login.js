@@ -3,7 +3,7 @@ import FormLogin from "../componets/Form"
 import Container from "react-bootstrap/esm/Container"
 import Col from "react-bootstrap/esm/Col"
 import Row from 'react-bootstrap/Row';
-import logo from "../componets/Logo";
+import logo from "../assets/img/logo.jpeg"
 
 import { useForm } from "../hooks/useForm";
 import Swal from 'sweetalert2'

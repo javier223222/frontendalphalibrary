@@ -14,7 +14,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
-import logo from './Logo';
+import logo from "../assets/img/logo.jpeg"
 import { useNavigate } from 'react-router-dom';
 import { addClassList, removeClassList } from '../functions/Addclalist';
 
@@ -45,7 +45,7 @@ Iniciar sesion
   const drawer = (
     <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
       <Typography variant="h6" sx={{ my: 2 }}>
-      <img src={logo} className='imagenFooter'></img>
+      <img src={logo} alt='logo de empresa' className='imagenFooter'></img>
       </Typography>
       <Divider />
       <List>
