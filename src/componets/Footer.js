@@ -1,5 +1,5 @@
-import logo from "./Logo"
-import { FaBeer } from 'react-icons/fa'
+
+
 import {FaFacebook} from "react-icons/fa"
 import {AiFillInstagram} from "react-icons/ai"
 
@@ -8,7 +8,7 @@ const Footer=()=>{
     <>
     <footer className="footer">
       <div className="imgaecontendor">
-        <img src={logo} className="imagenFooter"></img>
+        <img src={"../assets/img/logo.jpeg"} alt="Logo de la empresa footer" className="imagenFooter"></img>
       </div>
       <div className="links">
         <div><p>About</p></div>

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import Navbar from '../componets/Navbar'
 import { Link, useNavigate } from 'react-router-dom'
 import { Button } from '@mui/material'
-import logo from '../componets/Logo'
+
 import Circulo from '../componets/Circulo'
 import $ from "jquery"
 import DataTableExtraviados from '../componets/DataTableExtraviados'
@@ -46,7 +46,7 @@ const agregarExtraviado=()=>{
           <div className="d-flex align-items-center justify-content-center tit">
                 <h1 className="tituilolibros">Extraviados o dañados</h1>
            </div>
-      <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={logo} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+      <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={"../assets/img/logo.jpeg"} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
       <div className="container-fluid d-flex align-items-start justify-content-start mb-3">
                  <Button className='agregarlibros'  variant="contained" onClick={agregarExtraviado}> Agregar extraviado</Button>
 

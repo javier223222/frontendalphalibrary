@@ -11,7 +11,7 @@ const FormLogin=(props)=> {
     
         <Container className=' d-flex flex-row flex-lg-row   align-items-center  align-items-sm-center flex-sm-column flex-column   contendor m-5 p-5 '>
         <div className='container imagen'>
-            <img  className='  imagen'  src={imagen}></img>
+            <img  className='  imagen' alt='imagend de nina con libros'  src={imagen}></img>
         </div>
         
         <Form className='width '>
