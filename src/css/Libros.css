@@ -83,7 +83,11 @@ line-height: 98px;
     background-size: cover;
     position: absolute;
 }
-
+@media only screen and (max-width:1500px) and (min-width:1480px) {
+  .agrega{
+    gap: 73rem !important;
+  }
+}
 @media only screen and (max-width:1300px) and (min-width:1260px) {
     .agrega{
       gap: 60rem !important;
