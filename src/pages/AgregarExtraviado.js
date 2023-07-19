@@ -4,7 +4,7 @@ import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { AlphaLibraryLogo } from '../functions/Image'
 import FormAddBook from '../componets/FormAddBook'
 import { useForm } from '../hooks/useForm'
-import axios from "axios"
+
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
 import $ from "jquery"
@@ -32,7 +32,7 @@ const AgregarExtraviado = () => {
           // On autofill we get a stringified value.
           typeof value === 'string' ? value.split(',') : value[0],
         );
-        console.log(categoria)
+      
       };
       useEffect(()=>{
     

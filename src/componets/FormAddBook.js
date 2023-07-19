@@ -1,26 +1,19 @@
 import Button from '@mui/material/Button';
-import Input from './Input';
-import Label from './Lable';
 import MultipleSelect from './Seleccion';
-import NativeSelect from '@mui/material';
 
-import Suplieres from './Suplieres';
+
+
 import { TextField } from '@mui/material';
-import { useTheme } from '@mui/material/styles';
-import OutlinedInput from '@mui/material/OutlinedInput';
-import InputLabel from '@mui/material/InputLabel';
-import MenuItem from '@mui/material/MenuItem';
-import FormControl from '@mui/material/FormControl';
-import Select from '@mui/material/Select';
+
 const FormAddBook =(props)=>{
     const opciones=[{ label:"Aventura",value:"Aventura" },{label:"Ciencia ficción y fantasía",value:"Ciencia ficción y fantasía"},{label:"Misterio, Thriller y Suspenso",value:"Misterio, Thriller y Suspenso"},{label:"Literatura y Ficción",value:"Literatura y Ficción"},{label:"Ciencia y Matemáticas",value:"Ciencia y Matemáticas"},{label:"Historia",value:"Historia"},{label:"otro",value:"otro"}]
     return(
         <form >
         <div className="d-flex justify-content-end mx-5 mt-4 boton">
-           <Button  variant="contained" className='addbook ' onClick={props.handleSubmit}>{props.titulobuton}</Button>
+           <Button  variant="contained" className='addbook boto' onClick={props.handleSubmit}>{props.titulobuton}</Button>
            
         </div> 
-         <div className='container mt-2 columnform'>
+         <div className='container mt-2 columnform subir'>
             <div className='d-flex align-items-center flex-column '>
             <div className="mb-auto max">
             <TextField  required label={'Número de libro(obligatorio)'} id="Numerodelibro" margin="normal" size="small"  className='inputAdd' name={props.name0}  onChange={props.handleChange} type='number'  fullWidth/>

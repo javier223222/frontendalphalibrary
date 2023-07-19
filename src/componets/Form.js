@@ -29,7 +29,7 @@ const FormLogin=(props)=> {
 
       <Form.Group className="mb-3 pt-2 " controlId="formBasicPassword">
         <Form.Label>Contraseña</Form.Label>
-        <Form.Control type="password" placeholder="Password" className='input' name={props.password}  id={props.password} onChange={props.handleChange} />
+        <Form.Control type="password" placeholder="Contraseña" className='input' name={props.password}  id={props.password} onChange={props.handleChange} />
       </Form.Group>
      
       <Button className='text-center' onClick={props.submit} variant="outline-light" type="button">

@@ -1,14 +1,15 @@
 
 
 import {FaFacebook} from "react-icons/fa"
-import {AiFillInstagram} from "react-icons/ai"
+import {AiFillInstagram,AiFillTwitterCircle,AiFillLinkedin} from "react-icons/ai"
 
+import logo from "../assets/img/logo.jpeg"
 const Footer=()=>{
   return(
     <>
     <footer className="footer">
-      <div className="imgaecontendor">
-        <img src={"../assets/img/logo.jpeg"} alt="Logo de la empresa footer" className="imagenFooter"></img>
+      <div className="imgaecontendor scale-up-center ">
+        <img src={logo} alt="Logo de la empresa footer" className="imagenFooter"></img>
       </div>
       <div className="links">
         <div><p>About</p></div>
@@ -29,8 +30,8 @@ const Footer=()=>{
       <div className="icons">
         <FaFacebook color="white" size={30}></FaFacebook>
         <AiFillInstagram color="white" size={30}/>
-        <FaFacebook color="white" size={30}></FaFacebook>
-        <FaFacebook color="white" size={30}></FaFacebook>
+        <AiFillTwitterCircle color="white" size={30}/>
+        <AiFillLinkedin color="white" size={30}/>
        
 
       </div>

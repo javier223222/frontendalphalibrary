@@ -51,13 +51,13 @@ const Prestamos = props => {
   return (
     <div className='principallibros'>
          <div className="d-flex align-items-center justify-content-center tit">
-                <h1 className="tituilolibros">Prestamos</h1>
+                <h1 className="tituilolibros tracking-in-expand ">Prestamos</h1>
            </div>
            <div className="container-fluid d-flex align-items-start justify-content-start mb-3">
                  <Button className='agregarlibros'  variant="contained" onClick={agregarPrestamo}> Agregar Prestamo</Button>
 
        </div>
-        <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={"../assets/img/logo.jpeg"} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+        <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros pasar" image={"../assets/img/logo.jpeg"} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
         <DataTablePrestamos data={datapres}></DataTablePrestamos>
     </div>
   )

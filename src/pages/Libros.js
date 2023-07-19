@@ -83,7 +83,7 @@ const Libros=()=>{
 
         <div className="principallibros">
            <div className="d-flex align-items-center justify-content-center tit">
-                <h1 className="tituilolibros">Inventario de Libros</h1>
+                <h1 className="tituilolibros tracking-in-expand ">Inventario de Libros</h1>
            </div>
             <div className=" d-flex align-items-start justify-content-start agrega">
             <div className=" ">
@@ -97,7 +97,7 @@ const Libros=()=>{
             </div>
             </div>
             
-              <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button className="iniciosesionboton" onClick={cerrar}>Cerrar sesion</Button>]}classImage="imagePrincipalLibros"  navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+              <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button className="iniciosesionboton" onClick={cerrar}>Cerrar sesion</Button>]}classImage="imagePrincipalLibros pasar"  navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
               
               <DataTable datapres={databook}></DataTable>
               <Modal

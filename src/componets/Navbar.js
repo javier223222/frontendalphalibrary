@@ -66,7 +66,7 @@ function Navbar(props) {
             component="div"
             sx={{ flexGrow: 1, display: { xs: 'none', sm: 'block' } }}
           >
-            <img className={props.classImage} src="../assets/img/logo.jpeg"></img>
+            <img className={props.classImage} src={logo}></img>
           </Typography>
           <Box  className={props.itemsNavbar2} sx={{ display: { xs: 'none', sm: 'block' } }}>
             {navItems.map((item) => (

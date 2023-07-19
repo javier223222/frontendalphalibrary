@@ -33,11 +33,11 @@ const AgregarLibro=()=>{
           // On autofill we get a stringified value.
           typeof value === 'string' ? value.split(',') : value[0],
         );
-        console.log(categoria)
+   
       };
       useEffect(()=>{
         setDataLibros(location.state.databook?location.state.databook:[])
-        console.log(datalibros)
+        
 
      
        },[datalibros])
@@ -88,7 +88,7 @@ const AgregarLibro=()=>{
             data : JSON.stringify({numeroDeLibro:numeroDeLibro,titulo:titulo,editorial:editorial,autor:autor,categoria:categoria,cantidad:cantidad,isbn:isbn}),
             async: false,
             success: (respuestaSolicitud) => {
-              console.log(JSON.stringify(respuestaSolicitud))
+        
                 
             JSON.stringify(respuestaSolicitud)==`"Se registro El libro existosamente."`?backtobooks():erromessage();
             }
