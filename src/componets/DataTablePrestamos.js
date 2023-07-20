@@ -92,8 +92,8 @@ const DataTablePrestamos = props => {
       const MySwal = withReactContent(Swal)
        handleClose()
        await MySwal.fire({
-        title: <strong>Eliminado</strong>,
-        html: <i>El prestamos fue eliminado correctamente</i>,
+        title: <strong>Devuelto</strong>,
+        html: <i>El prestamos fue devuelto correctamente</i>,
         icon: 'success'
       })
       window.location.reload()
@@ -333,8 +333,12 @@ fetch(url, postReq)
             </IconButton>
           </Tooltip>
           <Tooltip arrow placement="right" title="Delete">
-            <IconButton color="error"  onClick={() => handleDeleteRow(row)}>
-              <Delete />
+            <IconButton   onClick={() => handleDeleteRow(row)}>
+             <Button style={{
+               fontfamily: 'Montserrat',
+               backgroundColor: 'rgba(76, 36, 162, 0.65)' ,
+               borderRadius: 6 ,
+             }}  variant="contained">Devolver </Button>
             </IconButton>
           </Tooltip>
         </Box>
@@ -349,7 +353,7 @@ open={open}
         <Box sx={style}>
 
           <Typography align="center" id="modal-modal-title" variant="h6" component="h2">
-           {estado ? ` Deseas eliminar el préstamo ${id.idprestamo}`: `Actualizar la fecha del Préstamo `}
+           {estado ? ` Deseas devolver el prestamo ${id.idprestamo}`: `Actualizar la fecha del Préstamo `}
           </Typography>
           <Box align="center">
        {!estado &&   <TextField style={{width:230}} id="standard-basic"  color="secondary" name="fecha_final" onChange={onInputChange}  variant="standard"  type="date"/>}
@@ -357,7 +361,7 @@ open={open}
           <Box sx={styleTwo}>
             <Button color="secondary" variant="contained" onClick={handleClose}>Cerrar</Button>
 
-          { estado ? <Button color="secondary" variant="contained" type="reset" onClick={deleteBook}>Eliminar</Button>:<Button color="secondary" variant="contained" type="reset" onClick={updateDataBook}>Actualizar</Button>}
+          { estado ? <Button color="secondary" variant="contained" type="reset" onClick={deleteBook}>Devolver</Button>:<Button color="secondary" variant="contained" type="reset" onClick={updateDataBook}>Actualizar</Button>}
           </Box>
 
         </Box>

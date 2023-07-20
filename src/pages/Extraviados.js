@@ -44,9 +44,9 @@ const agregarExtraviado=()=>{
   return (
     <div>
           <div className="d-flex align-items-center justify-content-center tit">
-                <h1 className="tituilolibros">Extraviados o dañados</h1>
+                <h1 className="tituilolibros tracking-in-expand ">Extraviados o dañados</h1>
            </div>
-      <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={"../assets/img/logo.jpeg"} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+      <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/historialDePrestamos"}>Historial De prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button onClick={cerrar} className="iniciosesionboton">Cerrar sesion</Button>]}classImage="imagePrincipalLibros" image={"../assets/img/logo.jpeg"} navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
       <div className="container-fluid d-flex align-items-start justify-content-start mb-3">
                  <Button className='agregarlibros'  variant="contained" onClick={agregarExtraviado}> Agregar extraviado</Button>
 

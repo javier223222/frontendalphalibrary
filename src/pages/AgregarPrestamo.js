@@ -1,5 +1,5 @@
 import React, {  useEffect, useState } from 'react'
-import { AlphaLibraryLogo } from '../functions/Image'
+
 import Navbar from '../componets/Navbar'
 import { Link,useLocation, useNavigate} from 'react-router-dom'
 
@@ -20,7 +20,7 @@ const AgregarPrestamo = props => {
  const [dataprestamos,setDataPrestamos]=useState([])
  useEffect(()=>{
   setDataPrestamos(location.state.datapres?location.state.datapres:[])
-  console.log(dataprestamos)
+
  },[dataprestamos])
 
  const {nombrealumno,apellidoM,apellidoP,numerodeTelefono,fechainical,fechafinal,onInputChange,onResetForm}=useForm({
@@ -39,7 +39,7 @@ const AgregarPrestamo = props => {
 
   const handleChange = (selectedOption) => {
    setLibro(selectedOption.value)
-    console.log(`Option selected:`, selectedOption);
+ 
   };
 
         
@@ -57,7 +57,7 @@ const AgregarPrestamo = props => {
         // On autofill we get a stringified value.
         typeof value === 'string' ? value.split(',') : value[0],
       );
-      console.log(grado)
+ 
     };
     const handleChangegrupo = (event) => {
       const {
@@ -67,7 +67,7 @@ const AgregarPrestamo = props => {
         // On autofill we get a stringified value.
         typeof value === 'string' ? value.split(',') : value[0],
       );
-      console.log("kkkkk")
+
     };
    const handlesubmit= async  ()=>{
     console.log(`${nombrealumno} ${apellidoM} ${apellidoP} ${numerodeTelefono}`)
@@ -209,7 +209,7 @@ const AgregarPrestamo = props => {
           async: false,
           success: (respuestaSolicitud) => {
   
-            console.log(JSON.stringify(respuestaSolicitud))
+        
               
           
           }})
@@ -219,7 +219,7 @@ const AgregarPrestamo = props => {
     const comprobarnumero=(nombre,apellidop,appellidoM,grado,grupo,telefono)=>{
       if(isEmpty(dataprestamos)){
         const existe=dataprestamos.filter(x=>x.nombre.toLowerCase()!=nombre.toLowerCase() && x.apellidopaterno.toLowerCase()!=apellidop.toLowerCase() && x.apellidomaterno.toLowerCase()!=appellidoM.toLowerCase() &&( x.grado!=grado || x.grupo != grupo  ) && x.numero_de_telefono==telefono)
-        console.log(existe)
+      
         return existe.length !=0
       }else{
         return false
@@ -251,7 +251,7 @@ const AgregarPrestamo = props => {
         data:JSON.stringify({ nombre:nombrealumno,grado:grado,grupo:grupo,numero_de_telefono:numerodeTelefono?numerodeTelefono:1111111111,apellidopaterno:apellidoP,apellidomaterno:apellidoM}),
         async: false,
         success: (response) => {
-          console.log(response)
+
         }
       })
       
@@ -281,7 +281,7 @@ const AgregarPrestamo = props => {
     }
   return (
     <div className='principal'>
-         <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={""} classImage="imagePrincipal "></Navbar>
+         <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/historialDePrestamos"}>Historial De prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={""} classImage="imagePrincipal "></Navbar>
          <FormAgrearPrestamo handleSubmit={handlesubmit} libro={libro} handleChangeli={handleChange} grado={grado} handleChangegrado={handleChangegrado} grupo={grupo} handleChangegrupo={handleChangegrupo} nombrealumno="nombrealumno" apellidoM="apellidoM" apellidoP="apellidoP"  numerodeTelefono="numerodeTelefono"  fechainical="fechainical" fechafinal="fechafinal" handleChange={onInputChange}  ></FormAgrearPrestamo>
     </div>
   )

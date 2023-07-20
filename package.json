@@ -22,6 +22,8 @@
     "flowbite-react": "^0.4.7",
     "gh-pages": "^5.0.0",
     "jquery": "^3.7.0",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.31",
     "material-react-table": "^1.14.0",
     "mdb-react-ui-kit": "^6.1.0",
     "react": "^18.2.0",

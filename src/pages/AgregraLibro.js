@@ -33,11 +33,11 @@ const AgregarLibro=()=>{
           // On autofill we get a stringified value.
           typeof value === 'string' ? value.split(',') : value[0],
         );
-        console.log(categoria)
+   
       };
       useEffect(()=>{
         setDataLibros(location.state.databook?location.state.databook:[])
-        console.log(datalibros)
+        
 
      
        },[datalibros])
@@ -88,7 +88,7 @@ const AgregarLibro=()=>{
             data : JSON.stringify({numeroDeLibro:numeroDeLibro,titulo:titulo,editorial:editorial,autor:autor,categoria:categoria,cantidad:cantidad,isbn:isbn}),
             async: false,
             success: (respuestaSolicitud) => {
-              console.log(JSON.stringify(respuestaSolicitud))
+        
                 
             JSON.stringify(respuestaSolicitud)==`"Se registro El libro existosamente."`?backtobooks():erromessage();
             }
@@ -166,8 +166,8 @@ const AgregarLibro=()=>{
     }        
     return(
         <div className="principal">
-        <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={AlphaLibraryLogo} classImage="imagePrincipal "></Navbar>
-        <h1>hsjsjsjs</h1>
+        <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/historialDePrestamos"}>Historial De prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={AlphaLibraryLogo} classImage="imagePrincipal "></Navbar>
+    
         {/* items={["inicio"]}  width={"172px"} height={"56px"} class="navbar" logo={AlphaLibraryLogo} imgClassname={" imagePrincipal"}/>
          */}
         <FormAddBook titulobuton="Agregar Libro" names={["Ciencia Ficción","Fantasía","Ciencia y Matemáticas","Historia","Infantil y Juvenil","Literatura y Ficción","Misterio"," Thriller o Suspenso","Romance","Humor y Entretenimiento","Educativo","Otro"]} handleChange={onInputChange}  handlechangeCategoria={handleChangecate} categoriaName={categoria} handleChangecategoria={handleChangecate} handleSubmit={handleSubmit} name1="titulo" name0="numeroDeLibro" name2="editorial" name3="autor"  name5="cantidad" name6="isbn"></FormAddBook>

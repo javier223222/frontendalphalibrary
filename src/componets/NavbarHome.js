@@ -45,7 +45,7 @@ Iniciar sesion
   const drawer = (
     <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
       <Typography variant="h6" sx={{ my: 2 }}>
-      <img src={logo} alt='logo de empresa' className='imagenFooter'></img>
+      <img src={logo} alt='logo de empresa' className='imagenFooter pasar'></img>
       </Typography>
       <Divider />
       <List>
@@ -95,7 +95,7 @@ Iniciar sesion
             component="div"
             sx={{ flexGrow: 9, display: { xs: 'none', sm: 'block' } }}
           >
-            <img alt='logo de la empresa' src={logo} className='imagenFooter'></img>
+            <img alt='logo de la empresa' src={logo} className='imagenFooter pasar'></img>
           </Typography>
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
           

@@ -9,6 +9,7 @@ import Prestamos from "../pages/Prestamos"
 import Extraviados from "../pages/Extraviados"
 import AgregarPrestamo from "../pages/AgregarPrestamo"
 import AgregarExtraviado from "../pages/AgregarExtraviado"
+import HistorialPrestamos from "../pages/HistorialPrestamos"
 
 
 const AppRouter=()=> {
@@ -31,6 +32,7 @@ const AppRouter=()=> {
           <Route path="/extraviados" Component={Extraviados}></Route>
           <Route path="/agregarprestamos/:components" Component={AgregarPrestamo}></Route>
           <Route path="/agregarExtraviado" Component={AgregarExtraviado}></Route>
+          <Route path="/historialDePrestamos" Component={HistorialPrestamos}></Route>
         </Route>
 
         
