@@ -9,6 +9,7 @@ import MyDocument from "../componets/Pdf";
 import {  useEffect, useState } from "react";
 import $ from "jquery";
 import { useForm } from "../hooks/useForm";
+import PdfReport from "../componets/Pdf";
 
 
 const style = {
@@ -97,10 +98,11 @@ const Libros=()=>{
             </div>
             </div>
             
-              <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button className="iniciosesionboton" onClick={cerrar}>Cerrar sesion</Button>]}classImage="imagePrincipalLibros pasar"  navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
+              <Navbar names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"} >Prestamos</Link>,<Link to={"/historialDePrestamos"}>Historial De prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>,<Button className="iniciosesionboton" onClick={cerrar}>Cerrar sesion</Button>]}classImage="imagePrincipalLibros pasar"  navclass="navLibros" itemsNavbar="itemslibros" navbaragregarLibro="navdisplay"></Navbar>
               
               <DataTable datapres={databook}></DataTable>
               <Modal
+              
 
 open={open}
         
@@ -121,13 +123,11 @@ open={open}
        <TextField id="standard-basic" placeholder="" color="secondary" name="fechadereporte"  variant="standard" fullWidth onChange={onInputChange} type="date" />
           </Box>
           <Box sx={styleTwo}>
-            <Button color="secondary" variant="contained" onClick={handleClose}>Cerrar</Button>
+          <Button   color="secondary" variant="contained" onClick={handleClose}>cerrar</Button>
+          <PdfReport name={directName} fecha={new Date(new Date(fechadereporte).setDate(new Date(fechadereporte).getDate()+1))}></PdfReport>
 
 
-
-           <PDFDownloadLink className="a "  document={<MyDocument name={ directName ? directName:"VLADIMIR A. DE LA ROSA TUN"} fecha={fechadereporte?new Date(new Date(fechadereporte).setDate(new Date(fechadereporte).getDate()+1)):fechadereporte} ></MyDocument>} fileName="Inventariobibliotecario.pdf"> 
-           <Button color="secondary" variant="contained" onClick={()=>onResetForm} >Generar pdf</Button>
-           </PDFDownloadLink>
+      
           </Box>
           
         </Box>

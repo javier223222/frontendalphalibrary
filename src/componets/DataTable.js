@@ -222,7 +222,7 @@ open={open}
         <Box sx={style}>
 
           <Typography align="center" id="modal-modal-title" variant="h6" component="h2">
-           {estado ? ` Deseas eliminar ${name}`: `Actualizar la cantidad del libro ${name}`} 
+           {estado ? ` Deseas eliminar el libro ${name}`: `Actualizar la cantidad del libro ${name}`} 
           </Typography>
           <Box align="center">
        {!estado &&   <TextField id="standard-basic" label="Ingrese la cantidad" color="secondary" name="cantidad" onChange={onInputChange} fullWidth variant="standard"  type="number"/>}

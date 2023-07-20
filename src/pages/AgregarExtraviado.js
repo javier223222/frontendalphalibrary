@@ -128,7 +128,7 @@ const AgregarExtraviado = () => {
     }        
   return (
     <div className='principal'>
-           <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={AlphaLibraryLogo} classImage="imagePrincipal "></Navbar>
+           <Navbar navclass="nav"  names={[<Link to={"/libros"}>Inicio</Link>,<Link to={"/prestamos"}>Prestamos</Link>,<Link to={"/historialDePrestamos"}>Historial De prestamos</Link>,<Link to={"/extraviados"}>Extraviados</Link>]} navbaragregarLibro="navbaragregarLibro" image={AlphaLibraryLogo} classImage="imagePrincipal "></Navbar>
            <FormAddBook titulobuton={"Agregar Libro Extraviado"} names={["Ciencia Ficción","Fantasía","Ciencia y Matemáticas","Historia","Infantil y Juvenil","Literatura y Ficción","Misterio"," Thriller o Suspenso","Romance","Humor y Entretenimiento","Educativo","Otro"]} handleChange={onInputChange}  handlechangeCategoria={handleChangecate} categoriaName={categoria} handleChangecategoria={handleChangecate} handleSubmit={handleSubmit} name1="titulo" name0="numeroDeLibro" name2="editorial" name3="autor"  name5="cantidad" name6="isbn"></FormAddBook>
     </div>
   )
