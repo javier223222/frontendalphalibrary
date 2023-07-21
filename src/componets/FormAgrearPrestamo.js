@@ -46,12 +46,18 @@ useEffect(()=>{
      
        <div className=' d-flex flex-column flex-md-row  flex-lg-row  flex-xl-row  gap-1 gap-lg-5 gap-md-3  '>
         
-       <Select className='max2 inputAdd abar'  onChange={props.handleChangeli} placeholder="Seleccione un libro" options={[...data].map(x=>{
+       <Select className='max2 '  onChange={props.handleChangeli} placeholder="Seleccione un libro"    options={[...data].map(x=>{
         return {value:x.titulo,label:x.titulo}
-       })} ></Select>
+       })}></Select>
        <TextField  style={{width:300}} label={'Nombre del alumno(obligatorio)'} id="nombrelibro" margin="normal" size="small" type='text' required className='inputAdd  abar' name={props.nombrealumno} onChange={props.handleChange} fullWidth />
        <TextField style={{width:300}}  label={'Apellido paterno del alumno(obligatorio)'} id="nombrelibro" margin="normal" size="small" type='text' required className='inputAdd abar' name={props.apellidoP} onChange={props.handleChange} fullWidth/>
        </div>
+  
+{/* ]options={data?[...data].map(x=>{
+        return {value:x.titulo,label:x.titulo}
+       }):[{value:"el extrnajero",label:"el extranjero"}]}options={data?[...data].map(x=>{
+        return {value:x.titulo,label:x.titulo}
+       }):[{value:"el extrnajero",label:"el extranjero"}]} */}
        <div className=' d-flex  flex-column flex-md-row  flex-lg-row  flex-xl-row  gap-1 gap-lg-5  gap-md-3'>
        <TextField  style={{width:300}} label={'Apellido materno del alumno(obligatorio)'} id="nombrelibro" margin="normal" size="small" type='text' required className='inputAdd abar' name={props.apellidoM} onChange={props.handleChange} fullWidth/>
        <TextField  style={{width:300}} label={'Número de teléfono(opcional)'} id="nombrelibro" margin="normal" size="small" type='tel' required className='inputAdd abar' name={props.numerodeTelefono} onChange={props.handleChange} fullWidth/>
@@ -61,8 +67,8 @@ useEffect(()=>{
        <MultipleSelect   names={["A","B","C","D","E"]} categoriaName={props.grupo} handleChangecategoria={props.handleChangegrupo} class=" max2 inputAdd abar" labelclass="maxcate" labelName="Grupo"></MultipleSelect>
       
      
-       <TextField style={{width:300}}  label={'Fecha inicial'} id="nombrelibro" margin="normal" size="small" type='date' required className='inputAdd abar' name={props.fechainical} onChange={props.handleChange} fullWidth/>
-       <TextField style={{width:300}}  label={'Fecha final'} id="nombrelibro" margin="normal" size="small" type='date' required className='inputAdd abar' name={props.fechafinal} onChange={props.handleChange} fullWidth/>
+       <TextField style={{width:300}}   id="nombrelibro" margin="normal" size="small" type='date' required className='inputAdd abar' name={props.fechainical} onChange={props.handleChange} fullWidth/>
+       <TextField style={{width:300}}   id="nombrelibro" margin="normal" size="small" type='date' required className='inputAdd abar' name={props.fechafinal} onChange={props.handleChange} fullWidth/>
       
         </div> 
         <Button  variant="contained" className='addbook ' onClick={props.handleSubmit}>Agregar Prestamo</Button>
