@@ -7,7 +7,7 @@
 
 }
 .itemslibros{
-  color: #D6B1FF !important;
+  color: rgba(76, 36, 162, 0.65) !important;;
 }
 .navdisplay a{
     text-decoration: none;
@@ -69,6 +69,7 @@ font-family: Inter;
 font-style: normal;
 font-weight: 800;
 line-height: 98px;
+text-align: center !important;
 }
 .principallibros{
     margin: 0;
@@ -83,13 +84,20 @@ line-height: 98px;
     background-size: cover;
     position: absolute;
 }
+
 .pasar:hover{
     
   transform: scale(1.1) ;
 }
 .tracking-in-expand {
-	-webkit-animation: tracking-in-expand 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
-	        animation: tracking-in-expand 0.8s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	-webkit-animation: tracking-in-expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	        animation: tracking-in-expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+}
+@media only screen and (max-width:500px)  {
+  .tituilolibros{
+    font-size: 64px !important;
+    text-align: center !important;
+  }
 }
 
 @-webkit-keyframes tracking-in-expand {

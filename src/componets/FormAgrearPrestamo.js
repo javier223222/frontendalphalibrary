@@ -2,7 +2,10 @@ import "../css/AgregrarPrestamo.css"
 import { Button, FormControl, TextField } from '@mui/material'
 import React, { useEffect, useState } from 'react'
 import MultipleSelect from './Seleccion'
-
+import { DemoContainer } from '@mui/x-date-pickers/internals/demo';
+import { AdapterDayjs } from '@mui/x-date-pickers/AdapterDayjs';
+import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
+import { DateTimePicker } from '@mui/x-date-pickers/DateTimePicker';
 import Select from "react-select"
 import $ from "jquery"
 
@@ -46,7 +49,7 @@ useEffect(()=>{
        <Select className='max2 inputAdd abar'  onChange={props.handleChangeli} placeholder="Seleccione un libro" options={[...data].map(x=>{
         return {value:x.titulo,label:x.titulo}
        })} ></Select>
-       <TextField style={{width:300}} label={'Nombre del alumno(obligatorio)'} id="nombrelibro" margin="normal" size="small" type='text' required className='inputAdd  abar' name={props.nombrealumno} onChange={props.handleChange} fullWidth/>
+       <TextField  style={{width:300}} label={'Nombre del alumno(obligatorio)'} id="nombrelibro" margin="normal" size="small" type='text' required className='inputAdd  abar' name={props.nombrealumno} onChange={props.handleChange} fullWidth />
        <TextField style={{width:300}}  label={'Apellido paterno del alumno(obligatorio)'} id="nombrelibro" margin="normal" size="small" type='text' required className='inputAdd abar' name={props.apellidoP} onChange={props.handleChange} fullWidth/>
        </div>
        <div className=' d-flex  flex-column flex-md-row  flex-lg-row  flex-xl-row  gap-1 gap-lg-5  gap-md-3'>
@@ -56,6 +59,8 @@ useEffect(()=>{
        </div>
        <div className=' d-flex flex-column flex-md-row  flex-lg-row  flex-xl-row  gap-1 gap-lg-5  gap-md-3'>
        <MultipleSelect   names={["A","B","C","D","E"]} categoriaName={props.grupo} handleChangecategoria={props.handleChangegrupo} class=" max2 inputAdd abar" labelclass="maxcate" labelName="Grupo"></MultipleSelect>
+      
+     
        <TextField style={{width:300}}  label={'Fecha inicial'} id="nombrelibro" margin="normal" size="small" type='date' required className='inputAdd abar' name={props.fechainical} onChange={props.handleChange} fullWidth/>
        <TextField style={{width:300}}  label={'Fecha final'} id="nombrelibro" margin="normal" size="small" type='date' required className='inputAdd abar' name={props.fechafinal} onChange={props.handleChange} fullWidth/>
       
