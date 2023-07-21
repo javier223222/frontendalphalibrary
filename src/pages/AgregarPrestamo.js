@@ -271,7 +271,7 @@ const AgregarPrestamo = props => {
     }
     const compronbar=(nombre,apellidop,appellidoM)=>{
       if(isEmpty(dataprestamos)){
-        const existe=dataprestamos.filter(x=>x.nombre.toLowerCase()==nombre.toLowerCase() && x.apellidopaterno.toLowerCase()==apellidop.toLowerCase() && x.apellidomaterno.toLowerCase()==appellidoM.toLowerCase())
+        const existe=dataprestamos.filter(x=>x.nombre.toLowerCase()==nombre.toLowerCase() && x.apellidopaterno.toLowerCase()==apellidop.toLowerCase() && x.apellidomaterno.toLowerCase()==appellidoM.toLowerCase() && x.entregado!="Entregado")
         console.log(existe)
         return existe.length>2
       }else{

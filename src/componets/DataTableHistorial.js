@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import $ from "jquery"
 import { MaterialReactTable } from "material-react-table";
-
+import { options } from '../functions/Time';
 const DataTableHistorial = (props) => {
     const [data,setData]=useState([])
     useEffect(()=>{
@@ -16,7 +16,14 @@ const DataTableHistorial = (props) => {
            
             }
           })
+          setData(x=>[...x].map(x=>{
+            const inicio=new Date(x.fecha_inicio)
+            const final=new Date(x.fecha_final)
+           
+            return {...x,fecha_inicio:inicio.toLocaleDateString("es-ES", options),fecha_final:final.toLocaleDateString("es-ES", options)}
+        }));
     },[])
+
     const columns = useMemo(
         () => [
           {
