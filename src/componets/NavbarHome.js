@@ -19,7 +19,7 @@ import { useNavigate } from 'react-router-dom';
 import { addClassList, removeClassList } from '../functions/Addclalist';
 
 const drawerWidth = 240;
-const navItems = ['Sobre nosotros', 'Precio', 'Contacto'];
+const navItems = [];
 
 
 function DrawerAppBar(props) {
