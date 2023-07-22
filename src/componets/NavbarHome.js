@@ -32,7 +32,7 @@ function DrawerAppBar(props) {
       replace:false
     })
 }
-const navItems2=['Sobre nosotros', 'Precio', 'Contacto',<Button onClick={navigateLogin} className='iniciosesionboton' sx={{ color: '#fff' }}>
+const navItems2=[<Button onClick={navigateLogin} className='iniciosesionboton' sx={{ color: '#fff' }}>
 Iniciar sesion
 </Button>];
   const { window } = props;
