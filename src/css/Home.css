@@ -207,7 +207,7 @@ button:hover{
 @media only screen 
 and (device-width: 428px) 
 and (device-height: 926px) 
-and (-webkit-device-pixel-ratio: 3) { 
+ { 
     .contendor2{
         margin-top: 36rem !important;
         margin-bottom: -2rem !important;
