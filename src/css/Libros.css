@@ -95,11 +95,20 @@ text-align: center !important;
 }
 @media only screen 
 and (device-width: 428px) 
-and (device-height: 926px)  { 
+and (device-height: 926px) 
+and (-webkit-device-pixel-ratio: 3) { 
   .agrega{
     gap: 6rem !important;
   }
 
+}
+@media only screen 
+and (device-width: 390px) 
+and (device-height: 844px) 
+and (-webkit-device-pixel-ratio: 3) { 
+  .agrega{
+    gap: 6rem !important;
+  }
 }
 @media only screen and (max-width:500px)  {
   .tituilolibros{
