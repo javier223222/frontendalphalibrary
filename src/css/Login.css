@@ -48,7 +48,32 @@ position: absolute;
 
 
 }
+@media only screen 
+and (device-width: 428px) 
+and (device-height: 926px)  { 
+    .imagen{
+        width:410px;
+    
+    }
+    .contendor{
+        margin-top: 2rem !important;
+        margin-left: 1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-top: 1rem !important;
+        margin-left: 0.5rem;
+    }
+    .imagen{
+        top: -1.3rem;
+        position: relative;
+        margin-left: -1.8rem;
+    }
 
+}
 
 @media only screen and (min-width:1450px) {
     .text-center{
