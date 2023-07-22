@@ -204,6 +204,42 @@ button:hover{
            transform: translateY(-100px);
  }
 }
+@media only screen 
+and (device-width: 428px) 
+and (device-height: 926px)  { 
+    .contendor2{
+        margin-top: 36rem !important;
+        margin-bottom: -2rem !important;
+        width: 940px;
+    }
+   .principalHome{
+
+
+    
+    
+    background-color: transparent;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+  
+   
+
+    background-image: url("../assets/img/iphone-xr.jpeg");
+   }
+   .footer{
+    visibility: hidden;
+   }
+   .navHome{
+    background-color: white!important;
+   }
+   .contenedoprincipal{
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: 4.5rem;
+    margin-top: 23.5rem;
+   }
+}
 @media only screen and (max-width: 385px) and (min-width: 368px)  {
     .contendor2{
         margin-top: 36rem !important;
