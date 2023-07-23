@@ -178,7 +178,32 @@ and (-webkit-device-pixel-ratio: 3) {
         margin-left: -1.8rem;
     }
  }
-
+ @media only screen 
+ and (device-width: 429px) 
+ and (device-height: 926px)  { 
+     .imagen{
+         width:410px;
+     
+     }
+     .contendor{
+         margin-top: 2rem !important;
+         margin-left: 1rem !important;
+     }
+     .marginincio{
+         position: relative;
+         top: 1rem;
+     }
+     .width{
+         margin-top: 1rem !important;
+         margin-left: 0.5rem;
+     }
+     .imagen{
+         top: -1.3rem;
+         position: relative;
+         margin-left: -1.8rem;
+     }
+ 
+ }
 @media only screen and (min-width:1450px) {
     .text-center{
         margin-left: -3rem ;
@@ -574,3 +599,2212 @@ top: 0.5rem;
     }
 
   }
+  @media only screen 
+and (device-width: 858px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 856px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 843px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 826px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 2rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 826px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 2rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 826px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 2rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 826px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 2rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 826px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 2rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 796px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 844px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 838px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 795px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 734px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 737px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 735px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 730px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 739px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 724px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 722px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 705px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.8rem;
+    }
+}
+@media only screen 
+and (device-width: 690px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.8rem;
+    }
+}
+@media only screen 
+and (device-width: 679px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.8rem;
+    }
+}
+@media only screen 
+and (device-width: 654px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 692px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:2rem;
+    }
+}
+@media only screen 
+and (device-width: 692px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:2rem;
+    }
+}
+@media only screen 
+and (device-width: 686px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:2rem;
+    }
+}
+@media only screen 
+and (device-width: 682px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:2rem;
+    }
+}
+@media only screen 
+and (device-width: 674px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 668px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 662px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 656px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:1.3rem;
+    }
+}
+@media only screen 
+and (device-width: 652px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 646px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 640px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 634px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 628px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 622px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 616px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 614px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 4rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.1rem;
+    }
+}
+@media only screen 
+and (device-width: 597px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 595px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 593px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 589px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 581px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 577px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 569px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-3.3rem;
+    }
+}
+@media only screen 
+and (device-width: 567px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-3.3rem;
+    }
+}
+@media only screen 
+and (device-width: 565px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-3.3rem;
+    }
+}
+@media only screen 
+and (device-width: 561px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-3.3rem;
+    }
+}
+@media only screen 
+and (device-width: 557px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-0.2rem;
+    }
+}
+@media only screen 
+and (device-width: 568px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-0.2rem;
+    }
+}
+@media only screen 
+and (device-width: 570px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+@media only screen 
+and (device-width: 591px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+@media only screen 
+and (device-width: 580px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+@media only screen 
+and (device-width: 574px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+
+@media only screen 
+and (device-width: 572px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+@media only screen 
+and (device-width: 566px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+@media only screen 
+and (device-width: 562px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-2.9rem;
+    }
+}
+@media only screen 
+and (device-width: 558px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 556px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 554px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 543px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 537px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 533px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 529px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 529px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 523px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 510px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 510px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 506px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 502px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 508px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-1rem;
+    }
+}
+@media only screen 
+and (device-width: 494px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-3rem;
+    }
+}
+@media only screen 
+and (device-width: 490px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 488px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+
+@media only screen 
+and (device-width: 484px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 482px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+
+
+@media only screen 
+and (device-width: 478px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 472px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 470px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 462px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 451px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 443px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 437px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 435px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 431px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 425px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 427px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 421px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 402px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+@media only screen 
+and (device-width: 348px) 
+and (device-height: 846px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1.5rem !important;
+        
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 0.5rem !important;
+      
+    }
+    .imagen{
+        margin-left:-4rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
