@@ -1,6 +1,6 @@
 (http://18.189.185.176/static/media/logo.3bc7f28c03ecacf7d3cd.jpeg).
 
-##Descripción del proyecto
+## Descripción del proyecto
 
 AlphaLibrary, pretende facilitar el manejo de un inventario de una biblioteca escolar, tanto sus libros, préstamos y problemas externos como lo son los extravíos y/o daños, lo que permitirá automatizar y agilizar el manejo de la biblioteca.
 
