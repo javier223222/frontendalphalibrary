@@ -19,7 +19,7 @@ import { useNavigate } from 'react-router-dom';
 import { addClassList, removeClassList } from '../functions/Addclalist';
 
 const drawerWidth = 240;
-const navItems = [];
+const navItems = ["nosotros","precios"];
 
 
 function DrawerAppBar(props) {
@@ -85,7 +85,7 @@ Iniciar sesion
           </Typography>
           <Box sx={{ display: { xs: 'none', sm: 'block' },flexGrow: 7}}>
             {navItems.map((item) => (
-              <Button className='boton1' key={item} sx={{ color: '#fff' }}>
+              <Button className='boton1' style={{visibility:"hidden"}} key={item} sx={{ color: '#fff' }}>
                 {item}
               </Button>
             ))}

@@ -2785,26 +2785,3051 @@ and (device-height: 846px){
     }
 }
 
+@media only screen 
+and (device-width: 984px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 3rem;
+    }
+}
+@media only screen 
+and (device-width: 968px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 3rem;
+    }
+}
+@media only screen 
+and (device-width: 963px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 3rem;
+    }
+}
+@media only screen 
+and (device-width: 961px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 3rem;
+    }
+}
+@media only screen 
+and (device-width: 959px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 3rem;
+    }
+}
+@media only screen 
+and (device-width: 957px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+
+@media only screen 
+and (device-width: 955px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 948px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 941px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 934px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 929px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 922px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -1rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 0.2rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 915px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -7rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 8rem;
+        margin-top: 4rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 906px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -7rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 8rem;
+        margin-top: 4rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 878px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 10rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 866px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 10rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1.5rem;
+    }
+}
+@media only screen 
+and (device-width: 857px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 850px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 836px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.4rem;
+    }
+}
+@media only screen 
+and (device-width: 829px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.1rem;
+    }
+}
+@media only screen 
+and (device-width: 822px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.1rem;
+    }
+}
+@media only screen 
+and (device-width: 794px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.1rem;
+    }
+}
+@media only screen 
+and (device-width: 754px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -6rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 8rem;
+        margin-top: 1.8rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 740px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -6rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 8rem;
+        margin-top: 1.8rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 726px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 8rem;
+        margin-top: -1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1.6rem;
+    }
+}
+@media only screen 
+and (device-width: 724px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 8rem;
+        margin-top: -1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1.6rem;
+    }
+}
+@media only screen 
+and (device-width: 717px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2.3rem;
+    }
+}
+@media only screen 
+and (device-width: 710px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2.3rem;
+    }
+}
+@media only screen 
+and (device-width: 705px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2.3rem;
+    }
+}
+@media only screen 
+and (device-width: 712px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2.3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 696px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2.3rem;
+    }
+}
+@media only screen 
+and (device-width: 691px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2.3rem;
+    }
+}
+@media only screen 
+and (device-width: 689px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1rem;
+    }
+}
+@media only screen 
+and (device-width: 673px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 9rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 1rem;
+    }
+}
+@media only screen 
+and (device-width: 647px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 645px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 643px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 641px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 636px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 631px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 622px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.5rem;
+    }
+}
+@media only screen 
+and (device-width: 603px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+@media only screen 
+and (device-width: 584px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+
+@media only screen 
+and (device-width: 595px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+@media only screen 
+and (device-width: 590px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+@media only screen 
+and (device-width: 583px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+@media only screen 
+and (device-width: 576px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+
+
+@media only screen 
+and (device-width: 562px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+@media only screen 
+and (device-width: 560px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 1rem;
+        margin-top: 3rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.2rem;
+    }
+}
+
+@media only screen 
+and (device-width: 562px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3.5rem;
+    }
+}
+@media only screen 
+and (device-width: 551px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 549px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 537px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 530px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 528px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.3rem;
+    }
+}
+@media only screen 
+and (device-width: 514px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 505px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 503px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 501px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 496px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 494px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 485px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 478px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 476px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 464px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 455px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 441px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 434px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -0.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 433px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 426px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 421px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 404px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 401px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 384px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 382px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 350px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 6rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 343px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 338px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 336px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 331px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 329px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 322px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 315px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 310px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 305px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 300px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 13rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 573px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 571px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 566px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 561px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 556px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.2rem;
+    }
+}
+
+@media only screen 
+and (device-width: 547px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.2rem;
+    }
+}
+@media only screen 
+and (device-width: 540px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.2rem;
+    }
+}
+@media only screen 
+and (device-width: 545px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.2rem;
+    }
+}
+@media only screen 
+and (device-width: 533px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: 0.2rem;
+    }
+}
+@media only screen 
+and (device-width: 521px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+
+@media only screen 
+and (device-width: 519px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 517px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 510px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 515px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+
+@media only screen 
+and (device-width: 508px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+
+@media only screen 
+and (device-width: 506px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+
+@media only screen 
+and (device-width: 504px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 509px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 500px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 507px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: -2rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -1rem;
+    }
+}
+@media only screen 
+and (device-width: 491px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 1rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 491px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 1rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 477px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 1rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 454px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 1rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 449px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 444px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 453px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 448px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 446px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 448px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 3.5rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 423px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 7rem;
+        margin-top: 1rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 351px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 12rem;
+        margin-top: 10rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+
+@media only screen 
+and (device-width: 342px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 12rem;
+        margin-top: 10rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 323px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 12rem;
+        margin-top: 10rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+@media only screen 
+and (device-width: 302px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 12rem;
+        margin-top: 10rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
+
+@media only screen 
+and (device-width: 304px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 12rem;
+        margin-top: 10rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
 
 
 
+@media only screen 
+and (device-width: 292px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 12rem;
+        margin-top: 10rem !important;
+      
+    }
+    .imagen{
+        margin-left: -3rem;
+    }
+}
 
 
+@media only screen 
+and (device-width: 930px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 951px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 942px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 940px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 938px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+@media only screen 
+and (device-width: 931px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 943px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
+@media only screen 
+and (device-width: 848px) 
+and (device-height: 926px){
+    .imagen{
+        text-align: center;
+       
+    }
+    .contendor{
+        margin-top: -2rem !important;
+    }
+    .marginincio{
+        position: relative;
+        top: 1rem;
+    }
+    .width{
+        margin-left: 5rem;
+        margin-top: 1.6rem !important;
+      
+    }
+    .imagen{
+        margin-left: 2rem;
+    }
+}
 
 

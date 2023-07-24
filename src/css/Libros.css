@@ -679,8 +679,5661 @@ and (-webkit-device-pixel-ratio: 3) {
     }
   } 
 
-
-
-
-
+  @media only screen 
+  and (device-width: 307px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 7rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
   
+  }
+
+
+  @media only screen 
+  and (device-width: 321px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 7rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 319px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 7rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 333px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 7rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 342px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 7rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 347px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 8rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 352px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 8.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 357px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 8.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 359px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 8.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 396px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 401px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 384px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 400px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 405px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 407px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 409px) 
+  and (device-height: 926px) 
+   { 
+    .agrega{
+      gap: 5.3rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 423px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 428px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 435px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 430px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 432px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 434px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 436px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 436px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 441px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 443px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 445px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 450px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 452px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 457px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 459px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 462px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8.6rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 467px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8.6rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 469px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8.6rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 476px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 9rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 481px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 9rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 483px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 9rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 485px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 490px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 492px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 494px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 461px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 9rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 454px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 9rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 449px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 442px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 437px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 8rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 421px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 407px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 7rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 402px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 400px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 398px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 396px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 364px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 362px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 2.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 360px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 2.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 358px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 2.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 356px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 2.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 351px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 2.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 344px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 2.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 337px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 1.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 332px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 1rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 325px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 1rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 323px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 318px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 313px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 311px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 309px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 307px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 300px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.1rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 305px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.1rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 301px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.1rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 306px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 0.1rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 496px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 498px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 500px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 11rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 502px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 504px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 506px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 508px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 510px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 512px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 514px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 516px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 12rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 518px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 13rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 523px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 13rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 525px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 13rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 527px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 13rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 529px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 13.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 552px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 13.5rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 557px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 15rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 559px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 15rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 589px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 17rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 649px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 19rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 679px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 23rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 709px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 23rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 739px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 26rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 755px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 26rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 757px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 26rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 759px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 26rem !important;
+    }
+    .agregarlibro{
+      width: 9.5rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 812px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 20rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1009px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 43rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1021px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 45rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1049px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 47rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1079px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 47rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1100px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 50rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1109px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 50rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1130px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 52rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1133px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 52rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1149px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 52rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1219px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 58rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1261px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 59rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1302px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 61rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1311px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1311px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1316px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1321px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1326px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1314px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1319px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1323px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1325px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1318px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1320px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1308px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1310px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1312px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1317px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1324px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1331px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1343px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1345px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1350px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1355px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1353px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1358px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1365px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1367px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1369px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1369px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1371px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1376px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1378px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1383px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1385px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1392px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1397px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1399px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1404px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1409px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1414px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1416px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1421px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1428px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1433px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1438px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1440px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1445px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1447px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1452px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1461px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1468px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1475px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 73rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1647px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1652px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1657px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 85rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1659px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 85rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1661px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 85rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1707px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 87rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1709px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 87rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1714px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 87rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1719px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 89rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1726px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 89rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1731px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 89rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1736px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 89rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1809px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 93rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1651px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 85rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1637px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 81rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1632px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 81rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1630px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1628px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1623px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1616px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1614px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 83rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1551px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 78rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1477px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 74rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1463px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1454px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1449px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1437px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1435px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1426px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1419px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1446px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1441px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1429px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1424px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1430px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1423px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1418px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1413px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1408px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1403px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1396px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1396px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1459px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1457px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1450px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1443px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1434px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1432px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1420px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1415px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1411px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1406px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1390px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1388px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1381px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1379px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1377px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1375px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1301px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1306px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1304px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1309px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1328px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1330px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1332px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1337px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1334px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1336px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1338px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1340px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1342px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1351px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1356px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1357px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1358px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1359px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1361px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1368px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1382px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1387px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1389px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1394px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1401px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 67rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1410px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 69rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1405px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 69rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1442px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 70rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1407px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1393px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1395px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 68rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1360px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1344px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 65rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1307px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 62rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1305px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 62rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1303px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 62rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1327px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 64rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1329px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 64rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1341px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 64rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1346px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1348px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1362px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1364px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1366px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1373px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1380px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1412px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 69rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1444px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 69rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1453px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 69rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1460px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 71rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1465px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 71rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1470px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 73rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+
+
+
+  @media only screen 
+  and (device-width: 1472px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 71rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1474px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 73rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1479px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 73rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1259px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 60rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1257px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 60rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1250px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 60rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1169px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 54rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1139px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 52rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1069px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 48rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1199px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 55rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1039px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 45rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1002px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 41rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1000px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 43rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 958px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 40rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 895px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 37rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1463px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 72rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1384px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1363px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1352px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 66rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1322px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 64rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1313px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1251px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 59rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1315px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 63rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1119px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 50rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+  @media only screen 
+  and (device-width: 1099px) 
+  and (device-height: 848px) 
+   { 
+    .agrega{
+      gap: 49rem !important;
+    }
+    .agregarlibro{
+      width: 9rem !important;
+      height: 2.4rem !important;
+      margin-left: 0 !important;
+      margin-right: 0 !important;
+  }
+  
+  }
+
+@media only screen 
+and (device-width: 1001px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 43rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 999px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 43rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 1089px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 49rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 1059px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 47rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 959px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 41rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 899px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 37rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 897px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 36rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 837px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 32rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 839px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 33rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 809px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 30rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 779px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 30rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 753px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 28rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 779px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 30rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 751px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 27rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 629px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 20rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 554px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 15rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 550px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 15rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 524px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 14rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 522px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 14rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 528px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 14rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 526px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 14rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 515px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 12rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 513px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 511px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 505px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 501px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 507px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 517px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 491px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 521px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 495px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 489px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 466px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 11rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 422px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 8rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 438px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 8rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 426px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 8rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 431px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 8rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 429px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 8rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 399px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 6rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 397px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 7rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 401px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 6rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 403px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 7rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 382px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 5rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 363px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 5rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 354px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 7rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 352px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 346px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 322px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 2rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 320px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 2rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 314px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 1rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+
+}
+@media only screen 
+and (device-width: 359px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 361px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 355px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 353px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 368px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 381px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 349px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 366px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 3rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 383px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 5rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 424px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 7rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 433px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 7rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 497px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 12rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 619px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 20rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 555px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 15rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 553px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 15rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 551px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 15rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 472px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 12rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 474px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 487px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 468px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 464px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 464px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 453px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 444px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 360px) 
+and (device-height: 740px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 360px) 
+and (device-height: 640px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 1159px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 54rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 1349px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 60rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen and (max-width: 346px) and (min-width:100px) {
+  .agrega{
+    gap: 0.2rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+}
+@media only screen 
+and (device-width: 1856px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 97rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
