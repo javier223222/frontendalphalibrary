@@ -6252,8 +6252,68 @@ and (device-height: 848px)
 
 }
 @media only screen 
+and (device-width: 499px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 10rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
 and (device-width: 360px) 
 and (device-height: 740px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 509px) 
+and (device-height: 740px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 509px) 
+and (device-height: 848px) 
+ { 
+  .agrega{
+    gap: 4rem !important;
+  }
+  .agregarlibro{
+    width: 9rem !important;
+    height: 2.4rem !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+}
+@media only screen 
+and (device-width: 519px) 
+and (device-height: 848px) 
  { 
   .agrega{
     gap: 4rem !important;
