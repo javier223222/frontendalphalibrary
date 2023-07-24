@@ -1,4 +1,4 @@
-("http://18.189.185.176/static/media/logo.3bc7f28c03ecacf7d3cd.jpeg").
+(http://18.189.185.176/static/media/logo.3bc7f28c03ecacf7d3cd.jpeg).
 
 #Descripción del proyecto
 
